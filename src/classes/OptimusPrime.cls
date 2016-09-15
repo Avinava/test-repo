@@ -1,1 +1,3 @@
-public class OptimusPrime{}
+public class OptimusPrime{
+    String autoBot;
+}
